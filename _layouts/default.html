@@ -23,7 +23,7 @@
   {% else %}
     <div class="navbar navbar-inverse navbar-static-top">
   {% endif %}
-      <div class="container">
+      <div class="container-fluid">
         <div class="navbar-header">
           <div class="navbar-toggle-wrapper visible-xs">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".js-navbar-collapse">
@@ -44,19 +44,20 @@
         </div>
       </div>
     </div>
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         {% if page.hide_sidebar or site.data.theme.hide_sidebar %}
           <div class="col-sm-12">
             {{ content }}
           </div>
         {% else %}
-          <div class="col-sm-8">
-            {{ content }}
-          </div>
           <div class="col-sm-4">
             {% include sidebar.html %}
           </div>
+          <div class="col-sm-8">
+            {{ content }}
+          </div>
+          
         {% endif %}
       </div>
       <div class="row footer">
