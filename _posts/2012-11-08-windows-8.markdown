@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Windows 8
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 200
+wordpress_url: http://t3hmikez0r.com/?p=200
+date: '2012-11-08 12:50:00 -0800'
+date_gmt: '2012-11-08 20:50:00 -0800'
+categories:
+- Nerd
+- Windows
+tags: []
+comments: []
+---
+<p>As a long-time anti-Microsoft person, I am somewhat ashamed to admit that I actually really like Windows 8. Â Here's why.</p>
+<p>A lot of people get hung up on the tile view. Â I don't particularly care for it. Â Indeed, I have found several aspects disorienting, especially how to get to my old familiar control panels. Â Here's what made everything better, and indeed actually made Windows 8 superior to any other version of Windows I've used.</p>
+<p>At the tile view, you can just type, and your computer will automatically start searching. Â It searches for programs, files, and settings. Â For example, if I want to run chrome, I simply type chrome and windows finds it. Â I can just hit enter, and go. Â No mouse involved. Â If I want to change my system environment variables - how the hell do I find that control panel? Â I don't have to find that control panel. Â Type in "variable" at the tile view, and under the settings results, I get a direct link to the panel for editing these variables.</p>
+<p>So, the tile view for the purposes of being a UI sucks. Â It's overly customized for touchpad people. Â I agree. Â But the ability to simply type and have windows be so active in finding what I want to do is amazing. Â It's like they've turned the mouse experience into the touchpad experience, and enhanced the keyboard experience, which now can stand independent of the mouse experience much more strongly. Â It is empowerment of the keyboard for interaction with the UI. Â I don't want a touchpad. Â I like interacting with Windows 8 from my keyboard.</p>
+<p>So, the tile view sucks. Â How do we work around that? Â Well, essentially all of the applications I use do not have "metro-style" full-screen views. Â They open in the desktop view, which aside from the absence of a start button, is the same as Windows 7. Â Thus, I have not lost my familiar experience with, say, Steam. Â The start screen for me serves only as a quick way to search for things to interact with on the alternate desktop view.</p>
+<p>A lot of people (notably Gabe Newell of Valve) are upset with Microsoft for moving towards the Apple model of closed-garden software. Â I'm with them. Â If Microsoft shifts further, and begins to remove the alternate desktop environment for me to run things like Steam, I'll cry foul, too. Â For now, I'm enjoying the ability to utilize my keyboard for several mundane Windows interactions.</p>
+<p>Linux still makes several things (mostly programming) easier, and the file hierarchy makes more sense, but Windows 8 gives my hugely positive experience with KDE a run for its money.</p>

@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Garlic
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 87
+wordpress_url: http://t3hmikez0r.com/2009/03/19/garlic/
+date: '2009-03-19 22:03:14 -0700'
+date_gmt: '2009-03-20 05:03:14 -0700'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 62
+  author: Gigi
+  author_email: gigi.kalmon@gmail.com
+  author_url: ''
+  date: '2009-03-22 13:59:52 -0700'
+  date_gmt: '2009-03-22 20:59:52 -0700'
+  content: "Congratulations! =D\r\n\r\nToo bad about that garlic not working though.
+    \ I'm sick too, and I'd love a tasty way of kicking it  =)"
+---
+<p>On the suggestion of one of my new co-op friends, I tried eating a raw garlic clove to try to nip my cold in the bud.  My body was unhappy with me the first time, and downright refused the second.  I think I'll stick to vitamins and horrible-tasting cough syrup.</p>
+<p>In other news, I passed my qualifying exam.  I'm now a dissertation away from being a mad doctor.  Excitement abounds.</p>

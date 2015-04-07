@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Milk
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 75
+wordpress_url: http://t3hmikez0r.com/?p=75
+date: '2009-01-01 22:51:24 -0800'
+date_gmt: '2009-01-02 05:51:24 -0800'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>If you haven't already seen this, you really should watch it. It's a 1985 documentary on Harvey Milk, the subject of the recent Sean Penn movie.</p>
+<p><a onmousedown="UntrustedLink.bootstrap($(this), &quot;ff0b7b758ed9611697354a6cbb9c2c30&quot;, event)" rel="nofollow" href="http://www.hulu.com/watch/49577/the-times-of-harvey-milk" target="_blank"><span>http://www.hulu.com/watch/</span><span>49577/the-times-of-harvey-</span>milk</a></p>
+<p>It's worth watching because Harvey Milk exemplified the kind of person that we desperately need - right now and always. He was gentle and compassionate, yet fiery and determined in his push for human rights. I have been forced throughout my life to learn about Christianity at various religious schools and from growing up Catholic. This man, more than anyone in the political history of the United States that I know of, truly exemplifies what it means to be a Christian politician (even though he was Jewish): accepting of others, peaceful, selfless, and relentless in his pursuit of human equality. I only mention Christianity because of the current political skew in that direction. It is irrelevant in understanding Milk's life, but does provide a widely acknowledged standard of excellence, a standard through which Milk can be evaluated to be a truly praiseworthy man.</p>
+<p>The Sean Penn movie is also worth watching, but this documentary is better, in my opinion. It covers the events after the assassination in much greater detail. If you do go to see the Sean Penn movie, please avoid Cinemark theaters, as the owner of that chain donated the maximum personal contribution to the Yes on Prop 8 campaign, and should not be profiting from the memory of such a great leader of the gay community.</p>

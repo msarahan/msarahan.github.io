@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Crafts!
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 23
+wordpress_url: http://t3hmikez0r.com/2007/08/27/crafts/
+date: '2007-08-27 19:35:48 -0700'
+date_gmt: '2007-08-28 02:35:48 -0700'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>So I've spent the summer volunteering 5 hours per week at the UC Davis Craft Center.  It has probably been the most important find here in Davis for me.  It's a perfect escape from lab when things get absolutely ridiculously boring or stupid, as they often do.  Check out some of the cool stuff I've made so far:</p>
+<p><a href="http://www.flickr.com/photos/msarahan/1253495500/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1377/1253495500_24416a4f0c_m.jpg" alt="pens" border="2" height="240" width="160" />Â Â Â  </a><a href="http://www.flickr.com/photos/msarahan/1252635623/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1346/1252635623_d8ed4877d3_m.jpg" alt="glass sculpt panorama" height="144" width="240" />Â Â Â Â  </a><a href="http://www.flickr.com/photos/msarahan/1252634853/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1162/1252634853_7bf2a248f4_m.jpg" alt="flower glass sculpture" height="160" width="240" /></a></p>

@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Fedora 9
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 44
+wordpress_url: http://t3hmikez0r.com/?p=44
+date: '2008-05-13 18:43:40 -0700'
+date_gmt: '2008-05-14 01:43:40 -0700'
+categories:
+- Nerd
+tags: []
+comments: []
+---
+<p>I run linux at work.Â  It eases my conscience to not depend on Microshit.Â  Fedora 9 was released today.Â  I've been a Ubuntu fan for a while now, but some of the software I use for work (IMOD) isn't easily made to run on Ubuntu.Â  I know it should be just figuring out the proper paths to tell it, but I wasted a day and decided it wasn't worth any more time than that.Â  On to Fedora (8).</p>
+<p>Now, with the update today, I tried the preupgrade option.Â  It's a cool idea - it downloads updated files, reboots, does whatever changes it needs to, and bam, updated OS.Â  It stalled at the later stage - 90.0%, something about metadata.Â  I figured it sounded too good to be true anyway.Â  I downloaded the new install DVD (thanks kernel.org!), and tried an upgrade install.Â  It took forever!Â  Why do these take so much longer?Â  I know there are more packages to install, and maybe these have to be downloaded.Â  That's a valid excuse.Â  Well, ok, this time it finished.Â  I rebooted to a pretty unhappy computer - no GUI at all.Â  The display flickered a bit, and then gave up.Â  Command prompt time.Â  I checked into Xorg's log file - version mismatch on the video driver (radeonhd).Â  Must not have gotten updated in the upgrade install (why not?)Â  A quick yum install took care of that, and X came up.Â  However, none of my desktops would load - not gnome, not KDE, and not enlightenment.Â  Showstopper.Â  I rebooted and did a fresh install.Â  Now things are pretty good.Â  I had to fight to get Flash working.Â  I had to feed my Pandora addiction.Â  For those of you wanting to know how to accomplish this feat, you must sacrifice your first born with a 32-hour old blade under a full moon...</p>
+<p>No, really, here's what you have to do (from http://docs.fedoraproject.org/release-notes/f8/en_US/sn-Desktop.html):</p>
+<div class="procedure">
+<ol type="1">
+<li>Create the 32bit mozilla plugin directory using this command:
+<pre class="screen">su -c 'mkdir -p /usr/lib/mozilla/plugins'</pre>
+</li>
+<li>Install the <span class="package">nspluginwrapper.i386</span>, 	    <span class="package">nspluginwrapper.x86_64</span>, and 	    <span class="package">pulseaudio-libs.i386</span> packages:
+<pre class="screen">su -c "yum -y install nspluginwrapper.{i386,x86_64} pulseaudio-libs.i386"</pre>
+</li>
+<li>Install <span class="package">flash-plugin</span> as shown above.</li>
+<li>Run <code class="command">mozilla-plugin-config</code> to register 	    the flash plugin:
+<pre class="screen">su -c 'mozilla-plugin-config -i -g -v'</pre>
+</li>
+<li>Close all <span class="application"><strong>Firefox</strong></span> windows, 	    and then relaunch <span class="application"><strong>Firefox</strong></span>.</li>
+<li>Type <strong class="userinput"><code>about:plugins</code></strong> in the URL bar 	    to ensure the plugin is loaded.</li>
+<li>If it isn't loading, try this command (firefox 3 does things a little differently from firefox 2)<br />
+su -c 'ln -s /usr/lib/mozilla/plugins /usr/lib64/firefox-3.0b5/'</li>
+</ol>
+</div>
+<p>Now sound probably isn't working yet.Â  Run these commands next, then restart firefox if you have it running at this point.</p>
+<pre class="screen">su -c "yum -y install libflashsupport-000-0.5.svn20070904.{i386,x86_64}"
+su -c 'mozilla-plugin-config -i -g -v'
+
+Thanks to http://www.derekhildreth.com/blog/how-to-fix-the-no-sound-issue-in-firefox-flash/ for this last bit.
+
+YMMV, but I hope this helps.</pre>

@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mikez0r
+  login: mikez0r
+  email: msarahan@gmail.com
+  url: http://
+author_login: mikez0r
+author_email: msarahan@gmail.com
+author_url: http://
+wordpress_id: 46
+wordpress_url: http://t3hmikez0r.com/?p=46
+date: '2008-06-15 10:35:29 -0700'
+date_gmt: '2008-06-15 17:35:29 -0700'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 11
+  author: Gigi
+  author_email: gigi.kalmon@yad-mew.com
+  author_url: ''
+  date: '2008-06-17 16:35:27 -0700'
+  date_gmt: '2008-06-17 23:35:27 -0700'
+  content: "Lol...you're crazy.  I'm glad to hear you're having fun - I hope the remainder
+    of your trip goes just as well =)\r\n\r\nYeah, those pacific islanders do have
+    strange pronunciations.  I read a book called Typee a couple of years back.  I
+    still haven't figured out how to pronounce the title, and I felt like a kindergartener
+    while trying to read it.\r\n\r\nAnyway, have fun! ...I can't wait to see all the
+    pics."
+- id: 12
+  author: mikez0r
+  author_email: msarahan@gmail.com
+  author_url: http://
+  date: '2008-06-21 21:13:22 -0700'
+  date_gmt: '2008-06-22 04:13:22 -0700'
+  content: "all the pics are up at flickr.  They are awesome, if I do say so myself.\r\n\r\nhttp://www.flickr.com/photos/msarahan"
+---
+<p>Last night I was (obviously from my last post) very drunk - and this is the best story I've had in quite a while.Â  I locked myself out of my dorm room!Â  I wandered around the building for a while, tried to force the door open, but ended up finding a stash of extra blankets and passing out on a couch in the lounge area.Â  Very funny, and a great introduction to a science meeting!</p>
