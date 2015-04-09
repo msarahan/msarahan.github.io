@@ -38,4 +38,4 @@ comments:
   date_gmt: '2008-06-22 04:13:22 -0700'
   content: "all the pics are up at flickr.  They are awesome, if I do say so myself.\r\n\r\nhttp://www.flickr.com/photos/msarahan"
 ---
-<p>Last night I was (obviously from my last post) very drunk - and this is the best story I've had in quite a while.Â  I locked myself out of my dorm room!Â  I wandered around the building for a while, tried to force the door open, but ended up finding a stash of extra blankets and passing out on a couch in the lounge area.Â  Very funny, and a great introduction to a science meeting!</p>
+<p>Last night I was (obviously from my last post) very drunk - and this is the best story I've had in quite a while. I locked myself out of my dorm room! I wandered around the building for a while, tried to force the door open, but ended up finding a stash of extra blankets and passing out on a couch in the lounge area. Very funny, and a great introduction to a science meeting!</p>

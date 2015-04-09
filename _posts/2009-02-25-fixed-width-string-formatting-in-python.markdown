@@ -22,8 +22,8 @@ tags:
 - Nerd
 comments:
 - id: 232
-  author: "ECAE &#8212; Shopexç”µå­\x90å•†åŠ¡äº‘çš„æ¢¦æƒ³ç©ºé—´ &raquo; [Denny --
-    ä¸ªäººçŸ¥è¯†åº“] Python"
+  author: "ECAE &#8212; Shopex\x90 &raquo; [Denny --
+    ] Python"
   author_email: ''
   author_url: http://blog.ec-ae.com/?p=434
   date: '2011-12-21 07:34:33 -0800'

@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Driving to San Francisco with Sarah, we came across a sign for "Cutting Way" or something like that (may have been road or blvd).Â My comment: "That's where all the depressed people live."Â Sarah gave me 2 demerits: one for the joke, and another for laughing at it so much. Â I can't help it! Â I'm just dark-humored. Â Blame my parents, who gave me the Far Side comics pretty much as soon as I could read.Â </p>
+<p>Driving to San Francisco with Sarah, we came across a sign for "Cutting Way" or something like that (may have been road or blvd).My comment: "That's where all the depressed people live."Sarah gave me 2 demerits: one for the joke, and another for laughing at it so much. I can't help it! I'm just dark-humored. Blame my parents, who gave me the Far Side comics pretty much as soon as I could read.</p>

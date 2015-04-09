@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>A nightmare consists of a situation at school.Â  Namely, that your coworkers have been unable to access their data on the computer you built, so they intend to disassemble it.Â  Said computer is something you take pride in, and you don't want to see your baby dismantled.</p>
+<p>A nightmare consists of a situation at school. Namely, that your coworkers have been unable to access their data on the computer you built, so they intend to disassemble it. Said computer is something you take pride in, and you don't want to see your baby dismantled.</p>
 <p>Yeah, that's actually a dream that I had.</p>

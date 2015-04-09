@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>do people find it necessary to forcefully and loudly inform me that I look like a retard/nerd while riding my bicycle?Â  Honestly, there are better things to shout out your car window or from the driveway of your frat house - even if I really do look like a retarded nerd (which I doubt).</p>
+<p>do people find it necessary to forcefully and loudly inform me that I look like a retard/nerd while riding my bicycle? Honestly, there are better things to shout out your car window or from the driveway of your frat house - even if I really do look like a retarded nerd (which I doubt).</p>

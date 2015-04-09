@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>I was surprised to see condoms being sold in the local law bookstore, which doubles as a convenience store.Â  I was more surprised by Trojan's new marketing theme: "Evolve - use a condom every time."Â  How are people supposed to evolve using a condom every time?Â  Doesn't evolution sort of imply reproduction?</p>
+<p>I was surprised to see condoms being sold in the local law bookstore, which doubles as a convenience store. I was more surprised by Trojan's new marketing theme: "Evolve - use a condom every time." How are people supposed to evolve using a condom every time? Doesn't evolution sort of imply reproduction?</p>

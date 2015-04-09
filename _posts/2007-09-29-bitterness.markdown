@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>It's such a hard thing to let go.Â  I retain so many situations in memory, with such great acrimony and some intent for revenge in most cases.Â  It can be so easily blamed on human nature - self preservation and all that.Â  Nevertheless, I feel both compelled to overcome that nature, and yet completely overwhelmed by it.</p>
+<p>It's such a hard thing to let go. I retain so many situations in memory, with such great acrimony and some intent for revenge in most cases. It can be so easily blamed on human nature - self preservation and all that. Nevertheless, I feel both compelled to overcome that nature, and yet completely overwhelmed by it.</p>

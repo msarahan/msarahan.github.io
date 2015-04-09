@@ -20,15 +20,15 @@ categories:
 tags: []
 comments: []
 ---
-<p>HDF5 is my latest computing fad.Â  I think it's definitely the best way to handle file I/O, and I'm using it in several projects.Â  Most recently, I've been working to use it with QSTEM, which is my first real C++ project that I've used HDF5 in.Â  The pre-built binaries are only available for VS2010 at the moment, so I've needed to rebuild HDF5 for VS2012.</p>
+<p>HDF5 is my latest computing fad. I think it's definitely the best way to handle file I/O, and I'm using it in several projects. Most recently, I've been working to use it with QSTEM, which is my first real C++ project that I've used HDF5 in. The pre-built binaries are only available for VS2010 at the moment, so I've needed to rebuild HDF5 for VS2012.</p>
 <p>There are directions for this here:<br />
 <a title="www.hdfgroup.org/HDF5/release/cmakebuild.html" href="www.hdfgroup.org/HDF5/release/cmakebuild.html" target="_blank">www.hdfgroup.org/HDF5/release/cmakebuild.html</a></p>
-<p>They don't work.Â  Not for me, anyway.Â  I had several issues:</p>
+<p>They don't work. Not for me, anyway. I had several issues:</p>
 <ol>
-<li>I did not have svn installed on my system.Â  Digging in the install log pointed this out to me.Â  After installing TortoiseSVN, and making sure to enable its console tools, the ctest instructions got further.Â  Things still didn't work though.Â  MSBuild complained about an out-of-date project file that I needed to open in the GUI.</li>
-<li>I could have built SZip and ZLib separately and done a more traditional CMake build, but ZLib would not cooperate.Â  I got some linker errors that I didn't understand, and that Google turned up nothing on.</li>
+<li>I did not have svn installed on my system. Digging in the install log pointed this out to me. After installing TortoiseSVN, and making sure to enable its console tools, the ctest instructions got further. Things still didn't work though. MSBuild complained about an out-of-date project file that I needed to open in the GUI.</li>
+<li>I could have built SZip and ZLib separately and done a more traditional CMake build, but ZLib would not cooperate. I got some linker errors that I didn't understand, and that Google turned up nothing on.</li>
 </ol>
-<p>What I discovered is that after step 1 ran to completion, it had left me with a decent CMake cache of settings.Â  I ran the cmake gui and disabled Fortran, but kept everything else.Â  I could now open the solution file output by CMake, and everything (including ZLib) was happy.</p>
+<p>What I discovered is that after step 1 ran to completion, it had left me with a decent CMake cache of settings. I ran the cmake gui and disabled Fortran, but kept everything else. I could now open the solution file output by CMake, and everything (including ZLib) was happy.</p>
 <p>To save future travelers time, binaries for x64 are here:<br />
 <a title="http://t3hmikez0r.com/static/qstem/" href="http://t3hmikez0r.com/static/qstem/" target="_blank">http://t3hmikez0r.com/static/qstem/</a><br />
-Win 32 had problems with SZip and ZLib, even with the setup that worked for x64.Â  Some issue with the "generator" - something going wrong with CMake.Â  If you need 32-bit HDF5 built, sorry.</p>
+Win 32 had problems with SZip and ZLib, even with the setup that worked for x64. Some issue with the "generator" - something going wrong with CMake. If you need 32-bit HDF5 built, sorry.</p>

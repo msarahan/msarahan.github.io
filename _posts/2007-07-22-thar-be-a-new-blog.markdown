@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Yarrr!Â  Watch out ye scurvy dogs!Â  This and flickr be the new homes of the 1337 pirate known as t3h.</p>
+<p>Yarrr! Watch out ye scurvy dogs! This and flickr be the new homes of the 1337 pirate known as t3h.</p>

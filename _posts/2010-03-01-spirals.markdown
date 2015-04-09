@@ -20,10 +20,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Some interesting maths from working on the dissertation. Â Yes, maths. Â I have to get used to the Queen's proper manner of speech.</p>
-<p>I study a material that is readily exfoliated into sheets. Â The sides of each sheet are not the same. Â This dissimilarity causes the sheet to roll up. Â You might be wanting a figure right about now. Â Me too. Â The sheet structure is easy - that's just a matter of getting the crystal structure from some published source (e.g. ICSD). Â But how to turn this into a scroll? Â I tried Illustrator's spiral tool to create a path, but got lazy trying to re-create the brush that would represent the structure. Â Plus, a friend noticed that when the diamond patterns get too close to one another, illustrator puts white space between them (makes one or both of them thinner). Â That won't do for representations of reality!</p>
+<p>Some interesting maths from working on the dissertation. Yes, maths. I have to get used to the Queen's proper manner of speech.</p>
+<p>I study a material that is readily exfoliated into sheets. The sides of each sheet are not the same. This dissimilarity causes the sheet to roll up. You might be wanting a figure right about now. Me too. The sheet structure is easy - that's just a matter of getting the crystal structure from some published source (e.g. ICSD). But how to turn this into a scroll? I tried Illustrator's spiral tool to create a path, but got lazy trying to re-create the brush that would represent the structure. Plus, a friend noticed that when the diamond patterns get too close to one another, illustrator puts white space between them (makes one or both of them thinner). That won't do for representations of reality!</p>
 <p><a href="http://t3hmikez0r.com/wp-content/uploads/2010/03/K4Nb6O17.png"><img class="alignnone size-medium wp-image-126" title="K4Nb6O17" src="http://t3hmikez0r.com/wp-content/uploads/2010/03/K4Nb6O17-264x300.png" alt="" width="264" height="300" /></a></p>
-<p>So, I turned to the dark, non-artistic side: maths. Â You can draw a spiral pretty easily using polar coordinates. Â Check it out: if you have a line of length X, you can make a spiral by setting 2 things:</p>
+<p>So, I turned to the dark, non-artistic side: maths. You can draw a spiral pretty easily using polar coordinates. Check it out: if you have a line of length X, you can make a spiral by setting 2 things:</p>
 <p>radius = x+inner radius of spiral<br />
 theta(angle) = some range of angles - how many times you want the spiral to make a complete circle.</p>
 <p>In python with numpy and matplotlib:</p>
@@ -35,11 +35,11 @@ plt.polar(theta,r)</p>
 <p>and you get</p>
 <p><a href="http://t3hmikez0r.com/wp-content/uploads/2010/03/spiral.png"><img class="alignnone size-medium wp-image-127" title="spiral" src="http://t3hmikez0r.com/wp-content/uploads/2010/03/spiral-300x222.png" alt="" width="300" height="222" /></a></p>
 <p>2 circles, no offset from 0.</p>
-<p>Well, cool, but I need the spacing between layers to be some well-defined value. Â You can play with starting radii and/or number of times around the circle (and I did, before I got tired of it). Â Mathematically, you can set the either of these, and determine the other based on the spacing you want.</p>
+<p>Well, cool, but I need the spacing between layers to be some well-defined value. You can play with starting radii and/or number of times around the circle (and I did, before I got tired of it). Mathematically, you can set the either of these, and determine the other based on the spacing you want.</p>
 <p>Spacing = length of line / number of times around.</p>
 <p>So, when I want a spiral with 5 unit spacing, and I start with an initial radius of 100, I get 20 spins around the circle:</p>
 <p><a href="http://t3hmikez0r.com/wp-content/uploads/2010/03/spiral-layers.png"><img class="alignnone size-medium wp-image-128" title="spiral-layers" src="http://t3hmikez0r.com/wp-content/uploads/2010/03/spiral-layers-300x277.png" alt="" width="300" height="277" /></a></p>
-<p>And you want Cartesian coordinates, because what good molecular modeling software recognizes polar coordinates? Â The nearest plot already shows this, but here's how I got them. Â See how bumpy my lines are? Â Those are atoms! Â OOOO!</p>
+<p>And you want Cartesian coordinates, because what good molecular modeling software recognizes polar coordinates? The nearest plot already shows this, but here's how I got them. See how bumpy my lines are? Those are atoms! OOOO!</p>
 <p>x=r*cos(theta)<br />
 y=r*sin(theta)</p>
-<p>Basic geometry, I know, but I was proud of myself. Â Especially since I've been intending to figure this out for nearly a year and finally did it. Â And it only took me a day.</p>
+<p>Basic geometry, I know, but I was proud of myself. Especially since I've been intending to figure this out for nearly a year and finally did it. And it only took me a day.</p>
